@@ -1,2 +1,2 @@
 # LogicDance.github.io
-Blog of LogicDance
+Hey! 这是我的博客, 欢迎浏览~
